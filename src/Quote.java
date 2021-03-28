@@ -23,8 +23,5 @@ public class Quote {
 	public String toString() {
 		return(quote+" - "+author);
 	}
-
-
-	
 	
 }
